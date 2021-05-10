@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Voice Health Analyzer</string>
-    <string name="sample_text">Play sample recording:</string>
-    <string name="sample_button_text">Play!</string>
+    <string name="sample_text">Record your voice:</string>
+    <string name="sample_button_text">Record!</string>
 </resources>
